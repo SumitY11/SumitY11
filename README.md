@@ -1,16 +1,66 @@
-## Hi there 👋
+# 👋 Hi, I'm Sumit Yeotkar
 
-<!--
-**SumitY11/SumitY11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Java & Web Developer**  
+🎓 Student | 💼 Job Seeker | 📚 Continuous Learner
 
-Here are some ideas to get you started:
+I am a passionate developer focused on building reliable backend systems and clean web applications.  
+Currently strengthening my skills in Java, Spring Boot, and modern web development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 About Me
+- 🎯 Aspiring Software Engineer
+- 🔍 Interested in backend development & full-stack fundamentals
+- 🛠 Strong focus on clean code and problem-solving
+- 🚀 Actively preparing for placements and real-world projects
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+- C
+- Java
+- Python
+- JavaScript
+
+### Backend
+- Spring Boot
+- RESTful APIs
+
+### Frontend
+- HTML5
+- CSS3
+- JavaScript
+- React
+
+### Databases
+- MySQL
+- PostgreSQL
+
+### Tools & Platforms
+- Git & GitHub
+- VS Code
+- IntelliJ IDEA
+- Postman
+- Maven
+- npm
+- Linux (basic)
+- Chrome DevTools
+
+---
+
+## 📊 GitHub Statistics
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SumitY11&layout=compact&theme=tokyonight)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SumitY11&show_icons=true&theme=tokyonight)
+
+---
+
+## 🤝 Connect With Me
+- 💼 LinkedIn: [Sumit Yeotkar](https://www.linkedin.com/in/sumit-yeotkar-b9b454339)
+- 📧 Email: sumityeotkar11@gmail.com
+
+---
+
+⭐ *Open to learning, collaboration, and opportunities in software development.*
