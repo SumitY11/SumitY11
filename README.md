@@ -16,8 +16,7 @@
 <a href="https://linkedin.com/in/sumit yeotkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumit yeotkar" height="30" width="40" /></a>
 <a href="https://instagram.com/smit_yeotkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="smit_yeotkar" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/ysmit09" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ysmit09" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/zlemf0vvkg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/zlemf0vvkg/" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/441101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="441101" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/zlemf0vvkg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="zlemf0vvkg" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
