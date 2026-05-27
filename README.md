@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Sumit Yeotkar</h1>
-<h3 align="center">strengthening my skills in Java Development, Data Structures & Algorithms</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumity11&label=Profile%20views&color=0e75b6&style=flat" alt="sumity11" /> </p>
 
