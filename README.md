@@ -5,11 +5,7 @@
 
 - 🌱 I’m currently learning **SpringBoot, Backend Development**
 
-- 💬 Ask me about **Backend Development**
-
 - 📫 How to reach me **sumityeotkar11@gmail.com**
-
-- ⚡ Fun fact **, I enjoy playing Tabla and Cajon. Music has taught me discipline, consistency, timing, and creativity — qualities that also shape the way I approach technology and learning.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
